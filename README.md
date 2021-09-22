@@ -25,7 +25,7 @@ Por el contrario, si lanza una sentencia similar a la siguiente, significa que s
 git version 2.27.1
 ```
 
-En el caso de que ya esté instalado puede continuar con la siguiente guía para actualizar a la versión más estable de sus repositorios o continuar con la [Instalación de Git desde la fuente]() para buscar la versión más reciente de la herramienta.
+En el caso de que ya esté instalado puede continuar con la siguiente guía para actualizar a la versión más estable de sus repositorios o continuar con la [Instalación de Git desde la fuente](https://github.com/gdborja/git/tree/main#instalaci%C3%B3n-de-git-desde-la-fuente) para buscar la versión más reciente de la herramienta.
 
 Continuar actualizando los repositorios del sistema con la herramienta de administración de paquetes ***apt***
 
@@ -47,7 +47,7 @@ git --version
 ```
 git version 2.30
 ```
-Tras haber instalado Git correctamente puede pasar a la sección [Configuración de Git]() de esta guía.
+Tras haber instalado Git correctamente puede pasar a la sección [Configuración de Git](https://github.com/gdborja/git/tree/main#configuraci%C3%B3n-de-git) de esta guía.
 
 # Instalación de Git desde la fuente
 Antes de comenzar, se debe instalar el software necesario para Git:
