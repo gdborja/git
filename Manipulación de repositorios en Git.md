@@ -114,10 +114,10 @@ Mostrar los cambios de la última versión del repositorio con respecto a la ant
 git show
 ```
 
-Cambiar el mensaje del último commit por ***Añadido el capitulo sobre gestión de ramas al índice.***
+Cambiar el mensaje del último commit por ***Añadido el capítulo sobre gestión de ramas al índice.***
 
 ```
-git commit --amend -m "Añadido el capitulo sobre gestión de ramas al índice."
+git commit --amend -m "Añadido el capítulo sobre gestión de ramas al índice."
 ```
 
 Volver a mostrar los últimos cambios del repositorio.
