@@ -1,4 +1,4 @@
-En el siguiente repositorio se llevará a cabo una serie de procesos para habituarnos con la creación y manipulación de repositiorios en ***Git***.
+En el siguiente repositorio se llevará a cabo una serie de procesos para habituarnos con la creación y manipulación de repositorios en ***Git***.
 
 # Requisitios previos
 Disponer de una distribución Linux con los pasos realizados en el [anterior repositorio](https://github.com/gdborja/git/blob/main/Instalacion%20de%20Git%20en%20Linux.md).
@@ -99,9 +99,10 @@ Mostrar los cambios respecto a la  última versión guardada en el repositorio.
 git diff
 ```
 
-Hacer un commit de los cambios con el mensaje ***Añadido los capitulos 3 y 4**.
+Añadir los cambios realizados y hacer un commit de los cambios con el mensaje ***Añadido los capitulos 3 y 4**.
 
 ```
+git add indice.txt
 git commit -m "Añadido los capitulos 3 y 4"
 ```
 
