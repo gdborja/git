@@ -40,7 +40,7 @@ Ctrl+D
 
 </details>
 
-<br>
+
 
 # Ejercicio 2
 
@@ -71,7 +71,7 @@ El flujo de trabajo básico con Git consiste en: 1- Hacer cambios en el reposito
 
 </details>
 
-<br>
+
 
 # Ejercicio 3
 
@@ -100,7 +100,7 @@ Git permite la creación de ramas lo que permite tener distintas versiones del m
 
 </details>
 
-<br>
+
 
 # Ejercicio 4
 
@@ -129,8 +129,6 @@ Indice de los cápitulos, con conceptos avanzados de git
 
 </details>
 
-<br>
-
 # Ejercicio 5
 
 Crear una nueva rama bibliografía y mostrar las ramas del repositorio.
@@ -144,8 +142,6 @@ Crear una nueva rama bibliografía y mostrar las ramas del repositorio.
 ```
 
 </details>
-
-<br>
 
 # Ejercicio 6
 
@@ -172,8 +168,6 @@ git log --graph --all --oneline
 ```
 
 </details>
-
-<br>
 
 ## Ejercicio 7
 
@@ -224,8 +218,6 @@ Chacon, S. and Straub, B. Pro Git. Apress.
  ```
 
  </details>
-
- <br>
 
  ## Ejercicio 9
  - Crear la rama bibliografia.
